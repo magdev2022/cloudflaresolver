@@ -19,9 +19,6 @@ This process is automatic. Your browser will redirect to your requested content 
 
 Please allow up to 5 seconds...
 ```
-
-Please don't share our work, payment, amount, other information to others. 
-
 The first visit to any site with Cloudflare IUAM enabled will sleep for 4 to 5 seconds until the challenge is solved, though no delay will occur after the first request.
 
 # Installation
